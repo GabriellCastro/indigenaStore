@@ -1,10 +1,10 @@
 <h1 align="center">indígenaStore<img height="45" src="/img/logoLink.png"></h1>
  <p align="center">A <strong>Trybe</strong> me trouxe um desafio muito TOP, construir um e-commerce , como por exemplo, <strong>Amazon , Americanas e Submarino,</strong> possui um carrinho de compras para auxiliar as pessoas consumidoras a salvar os itens que desejam comprar, além disso foi consumido a <strong>API do mercado livre</strong> o que deixou esse projeto bem interessante.</p>  
  
-~~~
-🛒🛒🛒 Em breve o link do deploy. 🛒🛒🛒
-~~~
-<img height="400" src="/img/imgReadme.png">
+
+<a align="center" href="https://indigenastore.vercel.app/">🛒🛒🛒 indígenaStore 🛒🛒🛒</a>
+
+<img align="center" height="400" src="/img/imgReadme.png">
 
 ### 🛠 Tecnologias
 
