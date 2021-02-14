@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Store</title>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="sortcut icon" href="img/logoLink.png" type="image/x-icon" /> 
+    <script src="script.js"></script>
+  </head>
+
+  <body>
+    <header>
+      <img src="img/logosemfundo.png" alt="logo">
+      <ul class="nav">
+        <li><a href="#home">Home</a></li>
+        <li><a href="https://www.linkedin.com/in/eugabrielcastro/" target="_black">Linkedin</a></li>
+        <li><a href="https://github.com/GabriellCastro" target="_black">Github</a></li>
+      </ul>
+    </header>
+    
+    <section class="searchItem">
+      <input type="text" id="valueItem" class="valueItem" placeholder="Pesquisar um produto">
+    </section>
+
+    <section class="container">
+      <div class="load"></div>
+      <section class="items">
+      </section>
+      <section class="cart">
+        <span class="cart__title">Carrinho de compras</span>
+        <button class="empty-cart">Esvaziar carrinho</button>
+        <ol class="cart__items"></ol>
+        <section class="dadPrice">
+          <img class="imgPrice" src="img/logoLink.png" alt="logo">
+          <p>R$</p>
+          <p class="total-price"></p>
+        </section>
+      </section>
+    </section>
+    
+    <footer>
+      <p> Desenvolvido por { Gabriel Castro } </p>
+  </footer>
+  </body>
+</html>
